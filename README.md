@@ -1,8 +1,19 @@
-# React + Vite
+# React Portfolio & Resume Themes
+## Demo
+To see a demo of the running project visit [moath-portfolio.pages.dev](https://moath-portfolio.pages.dev/).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Run the development server
 
-Currently, two official plugins are available:
+First, install the dependencies:
+``` shell
+> npm install
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Then run the development server:
+``` shell
+> npm run dev
+```
+
+## Deployment
+Automatically deployed to Cloudflare. [See Docs for more info](https://developers.cloudflare.com/pages/)
+
