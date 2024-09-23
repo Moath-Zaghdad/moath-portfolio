@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch12">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.01568627;"
+         offset="0"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="swatch5">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.01568627;"
+         offset="0"
+         id="stop5" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     style="display:inline">
+    <path
+       d="M 37.33521,43.668114 H 8.2613792 V 39.06434 L 31.105103,10.816187 H 8.2349876 V 6.4125772 H 37.328694 V 10.891248 L 13.71585,39.264504 h 23.61936 z"
+       id="text2"
+       style="font-size:51.242px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';mix-blend-mode:darken;fill-opacity:0.734177;stroke:#000000;stroke-width:0.2;stroke-linejoin:bevel"
+       transform="scale(1.0675412,0.936732)"
+       aria-label="Z" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';fill:#000000;fill-opacity:0.744304;stroke:#000000;stroke-width:0.2;stroke-linejoin:bevel;stroke-dasharray:none"
+       x="4.091238"
+       y="40.912361"
+       id="text1"><tspan
+         id="tspan1"
+         x="4.091238"
+         y="40.912361">M</tspan></text>
+  </g>
+</svg>

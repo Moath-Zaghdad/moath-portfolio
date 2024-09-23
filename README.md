@@ -6,14 +6,15 @@ To see a demo of the running project visit [moath-portfolio.pages.dev](https://m
 
 First, install the dependencies:
 ``` shell
-> npm install
+npm install
 ```
 
 Then run the development server:
 ``` shell
-> npm run dev
+npm run dev
 ```
 
 ## Deployment
-Automatically deployed to Cloudflare. [See Docs for more info](https://developers.cloudflare.com/pages/)
+Automatically deployed to Cloudflare pages.  
+[See Docs for more info](https://developers.cloudflare.com/pages/)
 
