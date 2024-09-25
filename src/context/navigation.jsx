@@ -1,3 +1,9 @@
+/*
+ * File: src/context/navigation.jsx
+ * Student's Name: Mo'ath Zaghdad
+ * Date: Sep 24, 2024
+ */
+
 import { createContext, useState, useEffect } from 'react';
 
 const NavigationContext = createContext();

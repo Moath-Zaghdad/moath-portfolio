@@ -1,3 +1,8 @@
+/*
+ * File Name: main.jsx
+ * Student's Name: Mo'ath Zaghdad
+ * Date: Sep 24, 2024
+ */
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 

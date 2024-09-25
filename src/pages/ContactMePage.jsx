@@ -1,8 +1,13 @@
+/*
+ * File: src/pages/ContactMePage.jsx
+ * Student's Name: Mo'ath Zaghdad
+ * Date: Sep 24, 2024
+ */
 
 const ContactMePage = () => {
 
   return (
-    <div className="container">
+    <div>
       <div className="text-center mb-5">
         <h1 className="display-5 fw-bolder mb-0"><span className="text-gradient d-inline">Concat Me</span></h1>
       </div>

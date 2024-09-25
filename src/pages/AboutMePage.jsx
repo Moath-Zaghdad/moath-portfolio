@@ -1,3 +1,9 @@
+/*
+ * File: src/pages/AboutMePage.jsx
+ * Student's Name: Mo'ath Zaghdad
+ * Date: Sep 24, 2024
+ */
+
 import MoathZaghdadImg from '../assets/MoathZaghdad.jpeg'
 
 const AboutMePage = () => {

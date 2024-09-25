@@ -1,3 +1,9 @@
+/*
+ * File: src/components/Route.jsx
+ * Student's Name: Mo'ath Zaghdad
+ * Date: Sep 24, 2024
+ */
+
 import { useContext } from 'react';
 import NavigationContext from '../context/navigation'
 

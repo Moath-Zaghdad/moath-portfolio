@@ -1,10 +1,16 @@
+/*
+ * File: src/pages/ProjectsPage.jsx
+ * Student's Name: Mo'ath Zaghdad
+ * Date: Sep 24, 2024
+ */
+
 import svgEditImg from '../assets/SvgEdit.png'
 import uuidImg from '../assets/uuid-backfill.png'
 
 const ProjectsPage = () => {
 
   return (
-    <div className="container">
+    <div>
       <div className="text-center mb-5">
         <h1 className="display-5 fw-bolder mb-0"><span className="text-gradient d-inline">Projects</span></h1>
       </div>

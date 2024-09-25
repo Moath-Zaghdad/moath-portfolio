@@ -1,3 +1,8 @@
+/*
+ * File Name: App.jsx
+ * Student's Name: Mo'ath Zaghdad
+ * Date: Sep 24, 2024
+ */
 import './App.css'
 import Navbar from './components/Navbar'
 import HomePage from './pages/HomePage'
